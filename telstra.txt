@@ -1,0 +1,3 @@
+Telstra Batch Training.
+Git is being taught now.
+Later jenkins, Docker.
