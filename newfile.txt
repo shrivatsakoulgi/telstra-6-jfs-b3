@@ -1,1 +1,2 @@
-Hello this is GIT demo. This is for Telstra 6 jfs 3 batch.
+ this is GIT demo. This is for Telstra 6 jfs 3 batch.
+This is stored in branch-1. Which allows us to do merging.
